@@ -1,4 +1,3 @@
-website
-=======
+Source code for my website at feihonghsu.com.
 
-Source code for my website.
+It's a static site but the static pages are generated via a small local web application.
