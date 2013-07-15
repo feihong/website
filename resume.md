@@ -3,6 +3,7 @@ Feihong Hsu
 
 - Chicago, IL
 - [Web site](http://feihonghsu.com)
+- [Blog](http://omegafeihong.tumblr.com)
 - [GitHub](https://github.com/feihong)
 - [LinkedIn](http://www.linkedin.com/in/feihonghsu)
 
@@ -29,13 +30,13 @@ I worked on an ASP.NET app to extract data from a SQL Server database and displa
 Talks
 -----
 
+[Asynchronous I/O in Python 3](http://pyvideo.org/video/2194/asynchronous-io-in-python-3)
+
 [Scraping from the Web: An Overview That Does Not Contain Too Much Cussing](http://pyvideo.org/video/1649/scraping-with-python)
 
 [Ultimate Language Shootout IV: CoffeeScript](http://pyvideo.org/video/1864/ultimate-language-shootout-iv-coffeescript)
 
 [Secrets of the Framework Creators](http://feihonghsu.com/secrets/)
-
-[Unicode for Small Children (and Children at Heart)](http://www.slideshare.net/megafeihong/unicode-for-small-children-and-children-at-heart)
 
 [How My Comic Book Addiction Birthed a New Functional Testing Tool](http://www.slideshare.net/megafeihong/how-my-comic-book-obsession-birthed-a-new-functional-testing-tool)
 
