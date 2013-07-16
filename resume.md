@@ -43,6 +43,8 @@ Talks
 Projects
 --------
 
+[Viol](https://github.com/feihong/viol)
+
 [PunkyBrowster](https://pypi.python.org/pypi/PunkyBrowster)
 
 Stuff I Know About
