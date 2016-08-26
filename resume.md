@@ -10,10 +10,14 @@ Feihong Hsu
 Who
 ---
 
-I am a freelance Django developer with a decade of Python experience and a strong foundation in JavaScript programming. I have an affinity for extracting data from unconventional sources. I'm excited by Tulip, the upcoming asynchronous I/O library for Python 3. My hobbies include reading comics, learning Chinese, [drawing](http://megafeihong.tumblr.com), and ping pong. I recently took a weeklong compiler course and didn't die.
+I am a freelance Django developer with more than a decade of Python experience and a strong foundation in JavaScript programming. Besides fullstack web development, my specialties are web scraping and geospatial programming. I'm excited by the new async/await syntax in Python 3.5. My hobbies include reading comics, learning Chinese, [drawing](http://megafeihong.tumblr.com), and dragon boat racing.
 
 Experience
 ----------
+
+*Freelance*, June 2013 to present
+
+I have helped a number of clients with their Python and JavaScript web development needs. On the odd occasion I've even done some iOS work.
 
 [EveryBlock](http://everyblock.com), September 2011 to Februrary 2013
 
@@ -30,6 +34,8 @@ I worked on an ASP.NET app to extract data from a SQL Server database and displa
 Talks
 -----
 
+[Using Realm with Swift](https://github.com/feihong/realm-talk)
+
 [Asynchronous I/O in Python 3](http://pyvideo.org/video/2194/asynchronous-io-in-python-3)
 
 [Scraping from the Web: An Overview That Does Not Contain Too Much Cussing](http://pyvideo.org/video/1649/scraping-with-python)
@@ -38,19 +44,19 @@ Talks
 
 [Secrets of the Framework Creators](http://feihonghsu.com/secrets/)
 
-[How My Comic Book Addiction Birthed a New Functional Testing Tool](http://www.slideshare.net/megafeihong/how-my-comic-book-obsession-birthed-a-new-functional-testing-tool)
-
 Projects
 --------
 
-[Viol](https://github.com/feihong/viol)
+[CHIRP Radio Command Center](https://github.com/chirpradio/command-center/)
 
-[PunkyBrowster](https://pypi.python.org/pypi/PunkyBrowster)
+[muffin-playground](https://github.com/feihong/muffin-playground)
+
+[quip](https://github.com/feihong/quip)
 
 Stuff I Know About
 ------------------
 
-Web scraping, Django, jQuery, PostgreSQL, Celery
+Web scraping, Django, asyncio, jQuery, PostgreSQL, PostGIS, Celery
 
 Education
 ---------
