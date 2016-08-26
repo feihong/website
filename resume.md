@@ -15,7 +15,7 @@ I am a freelance Django developer with more than a decade of Python experience a
 Experience
 ----------
 
-*Freelance*, June 2013 to present
+**Freelance**, June 2013 to present
 
 I have helped a number of clients with their Python and JavaScript web development needs. On the odd occasion I've even done some iOS work.
 
@@ -46,6 +46,8 @@ Talks
 
 Projects
 --------
+
+[Mobile App Tutorial](https://github.com/ChickTech/mobile-app-tutorial)
 
 [CHIRP Radio Command Center](https://github.com/chirpradio/command-center/)
 
