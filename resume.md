@@ -64,11 +64,19 @@ Projects
 
 [Mobile App Tutorial](https://github.com/ChickTech/mobile-app-tutorial)
 
+App Inventor tutorial made for the ChickTech Mobile App Workshop.
+
 [CHIRP Radio Command Center](https://github.com/chirpradio/command-center/)
+
+Web interface for running command line programs for managing a nonprofit radio station.
 
 [muffin-playground](https://github.com/feihong/muffin-playground)
 
+A small module containing convenience classes to make it easier to create simple asyncio-based web applications.
+
 [quip](https://github.com/feihong/quip)
+
+A minimal web-based user interface framework for Python command-line applications.
 
 Stuff I Know About
 ------------------
