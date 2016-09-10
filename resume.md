@@ -34,15 +34,30 @@ I worked on an ASP.NET app to extract data from a SQL Server database and displa
 Talks
 -----
 
-[Using Realm with Swift](https://github.com/feihong/realm-talk)
+[Using Tasks in Your Asyncio Web App](https://github.com/feihong/asyncio-tasks-talk), September 2016
 
-[Asynchronous I/O in Python 3](http://pyvideo.org/video/2194/asynchronous-io-in-python-3)
+I cover how to implement different types of tasks in an asyncio-based web application, including how to start them, stop them, and send incremental data to a web frontend using websockets. I also spend a little time reviewing asyncio concepts.
 
-[Scraping from the Web: An Overview That Does Not Contain Too Much Cussing](http://pyvideo.org/video/1649/scraping-with-python)
 
-[Ultimate Language Shootout IV: CoffeeScript](http://pyvideo.org/video/1864/ultimate-language-shootout-iv-coffeescript)
+[Using Realm with Swift](https://github.com/feihong/realm-talk), March 2015
 
-[Secrets of the Framework Creators](http://feihonghsu.com/secrets/)
+Realm is a mobile database for iOS and Android. On iOS, it's meant to be a replacement for Core Data, offering a similar API but with better performance and a smaller footprint.
+
+[Asynchronous I/O in Python 3](https://www.youtube.com/watch?v=jMgRUI7V_mk), July 2013
+
+An overview of PEP 3156 and basic usage of the reference implementation, codenamed Tulip. This is now known as asyncio, and is currently in the Python 3 standard library.
+
+[Scraping from the Web: An Overview That Does Not Contain Too Much Cussing](https://www.youtube.com/watch?v=jMgRUI7V_mk), February 2013
+
+I discuss how we implemented various scrapers at EveryBlock.
+
+[Ultimate Language Shootout IV: CoffeeScript](https://www.youtube.com/watch?v=oH_cEl2SMr8), June 2013
+
+Overview of CoffeeScript for the Ultimate Language Shootout IV.
+
+[Secrets of the Framework Creators](https://github.com/feihong/framework-tutorial), March 2008
+
+A PyCon tutorial that covers the usage of frame hacks, magic methods, decorators, and metaclasses, language features that often appear in the codebases of the most popular Python frameworks.
 
 Projects
 --------
