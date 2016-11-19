@@ -5,9 +5,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" /><title>Feihong Hsu</title>
-  <link rel="stylesheet" href="./css/foundation.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.4/foundation.min.css">
   <style>
-  ul { list-style-type: none; }
+  ul {
+    margin-left: 0;
+    list-style-type: none;
+  }
   </style>
 </head>
 <body>
